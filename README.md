@@ -1,4 +1,4 @@
-# fruzsi.deb.mini.project
+# CLI Cafe App
 A data organiser app for a coffee shop.
 
 ### Project Background
